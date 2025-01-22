@@ -1,2 +1,6 @@
 # leetcode_problems
 My solutions to leetcode questions
+
+| Number | Difficulty | Title|
+|--------|------------|------|
+|14|Easy|Longest Common Prefix|
