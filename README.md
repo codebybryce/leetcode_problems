@@ -5,3 +5,4 @@ My solutions to leetcode questions
 |--------|------------|------|
 |14|Easy|Longest Common Prefix|
 |20|Easy|Valid Parenthesis|
+|21|Easy|Merge Two Sorted Lists|
